@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">PhotosAPP</string>
+    <string name="login_title">LOGIN</string>
+    <string name="username_hint">username</string>
+    <string name="password">password</string>
+    <string name="login_button">Login</string>
+    <string name="user_logged">User logged</string>
+    <string name="error">Error</string>
+    <string name="wrong_user">User or Password does not match</string>
+    <string name="previous_button"><![CDATA[<]]></string>
+    <string name="next_button"><![CDATA[>]]></string>
+    <string name="index_text">TextView</string>
+    <string name="image_description">image</string>
+</resources>
